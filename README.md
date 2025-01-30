@@ -6,7 +6,7 @@
 - Next.Js
 - JavaScript
 - TypeScript
-- CSS
+- Tailwind.CSS
 - HTML
 
 ## Project Result:
